@@ -1,3 +1,3 @@
 # -Calculator
 Just a calculator and randomizer ==>
-Here I use variables(method1), and switch case (method2)
+There I use variables(method1), and switch case (method2)
